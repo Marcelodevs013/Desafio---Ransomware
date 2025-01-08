@@ -16,3 +16,8 @@ Agora, você pode usar o pacote **pyaes** no seu projeto de maneira isolada e se
 
 #### Sem Criptografia 
 
+![nao_criptografada](https://github.com/user-attachments/assets/ab5bc588-2332-404e-a498-6975fc99c447)
+
+
+#### Criptografado 
+![criptografada](https://github.com/user-attachments/assets/a67bdf49-dcf5-4262-99ea-2295575e61c7)
