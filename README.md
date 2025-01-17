@@ -23,3 +23,7 @@ Agora, você pode usar o pacote **pyaes** no seu projeto de maneira isolada e se
 
 #### Criptografado 
 ![criptografada](https://github.com/user-attachments/assets/a67bdf49-dcf5-4262-99ea-2295575e61c7)
+
+
+<img src="/D:\CURSO_LOGICA">
+
